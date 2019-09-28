@@ -1,4 +1,4 @@
-module github.com/awnumar/memcall
+module github.com/egtann/memcall
 
 go 1.12
 
